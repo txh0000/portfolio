@@ -25,3 +25,5 @@
     on Fling: move the app (activity) to the background by calling "moveTaskToBack(true);"
     on long-press: load default/saved values
 
+4. App that can use with firebase and message sending
+
