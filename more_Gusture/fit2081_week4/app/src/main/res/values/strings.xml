@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">fit2081_week4</string>
+    <string name="navigation_drawer_open">drawer opened</string>
+    <string name="navigation_drawer_close">drawer closed</string>
+    <string name="enter_to_add">Enter to add</string>
+    <string name="clear_book">Clear Book</string>
+    <string name="load_book">Load Book</string>
+    <string name="total_books">Total Books</string>
+    <string name="close">Close</string>
+</resources>
