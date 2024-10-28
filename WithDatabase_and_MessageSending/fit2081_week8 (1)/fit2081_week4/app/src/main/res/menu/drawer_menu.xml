@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/showlist"
+        android:title="showlist" />
+    <item
+        android:id="@+id/add_book"
+        android:title="Add Book" />
+    <item
+        android:id="@+id/remove_lastbook"
+        android:title="Remove Last Book" />
+    <item
+        android:id="@+id/remove_allbook"
+        android:title="Remove All Book" />
+    <item
+        android:id="@+id/close"
+        android:title="@string/close" />
+</menu>
